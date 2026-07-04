@@ -23,7 +23,7 @@ Option 1: MATLAB (Exact Manuscript Reproduction)
    1 Requirements: MATLAB R2016b or later (tested on R2025b)  
    2 Clone this repo:
 
-   git clone https://github.com/yourname/toponeuron.git
+   git clone https://github.com/livingjesus/toponeuron.git
    cd toponeuron
    3 Run the demo:
       demo.m  % Reproduces Figures 1–2 from the paper
